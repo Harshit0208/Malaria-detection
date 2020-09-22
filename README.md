@@ -38,4 +38,4 @@ The dataset contains 2 folders
 
 
 Acknowledgements
-This Dataset is taken from kaggle dataset <a href= "https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria">
+This Dataset is taken from kaggle dataset  "https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria"
